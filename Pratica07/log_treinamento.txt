@@ -1,0 +1,5 @@
+[INFO] Modelo: RandomForest, Tempo de execução: 12.5s
+[INFO] Modelo: XGBoost, Tempo de execução: 10.3s
+[INFO] Modelo: SVM, Tempo de execução: 8.7s
+[INFO] Modelo: KNN, Tempo de execução: 9.1s
+[INFO] Modelo: LogisticRegression, Tempo de execução: 11.0s
